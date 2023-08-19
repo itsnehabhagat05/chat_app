@@ -1,16 +1,3 @@
 # chat_app
+<img width="202" alt="chatapp1" src="https://github.com/itsnehabhagat05/chat_app/assets/127725526/141c0902-53a0-4d1a-8aa9-1468ab5929b5">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
